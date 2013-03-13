@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+/*所有可显示的文件都要加上html.css*/
+
+html, body {
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+ 	line-height:1.6em;
+	margin:0;
+}
+ 
+html {
+	font-size:100%;
+}
+
+body {
+	/*background-image:url('../image/6629840829_61ac911854_b1.jpeg-bodybg.jpg');*/
+	background-color:rgb(24, 224, 40);
+}
+
+div {
+	display:block;
+}
+
+form {
+	display:block;
+}

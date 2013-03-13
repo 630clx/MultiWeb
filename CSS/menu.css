@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+/*用于menu.php*/
+#menu {
+	height:100%;
+	text-align:center;
+	background-color:whiteSmoke;
+	font-size:16px;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100px;
+}
+
+.menuOn {
+	filter:alpha(opacity=50);   
+    -moz-opacity:0.5;   
+    -khtml-opacity: 0.5; 
+    opacity: 0.5;
+}
+
+.menuOff {
+	filter:alpha(opacity=20);   
+    -moz-opacity:0.2;   
+    -khtml-opacity: 0.2; 
+    opacity: 0.2;
+}
+
+.menuOff nav a {
+	opacity:0.2;
+}
+
+.menuOn nav a {
+	opacity:1.0;
+}
+
+#menu nav ul {
+	text-align:left;
+	margin-left:-25px;
+}
+
+#menu nav li {
+	border-bottom: 1px solid hsla( 200, 20%, 50%, 0.3 );
+	overflow: hidden;
+	height: 50px;
+	line-height:50px;
+}
+
+#menu nav a {
+	text-decoration:none;
+	display: block;
+	position: relative;
+	-webkit-transition-property: color;
+	-moz-transition-property: color;
+	-ms-transition-property: color;
+	-o-transition-property: color;
+	transition-property: color;
+}
+
+li {
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
