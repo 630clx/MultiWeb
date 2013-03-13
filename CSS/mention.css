@@ -1,0 +1,63 @@
+a:link {
+    text-decoration:none;
+}
+a:visited {
+    text-decoration:none;
+}
+a:hover {
+    text-decoration:underline;
+}
+body {
+    color:#423009;
+}
+.WB_feed {
+    float:left;
+    width:600px;
+    overflow:hidden;
+    margin:20px 200px ;
+
+}
+.WB_feed_type{
+}
+.WB_feed_detail {
+    border-bottom-width:1px;
+    border-bottom-style:solid;
+    border-color:#e6e6e6;
+    margin:-1px 20px 0;
+    padding:21px 0 0;
+}
+.WB_detail {
+    margin-left:65px;
+}
+.WB_face {
+    float:left;
+    width:50px;
+}
+.WB_text {
+    font-size:14px;
+    line-height:23px; 
+    padding:4px 0 4px
+}
+.WB_func {
+    font-size:12px;
+    line-height:1.125;
+    float:right;
+    clear:both;
+    display:block;
+    height:0;
+}
+.WB_name {
+    font-size:14px;
+    font-weight:bold;
+    line-height:16px;
+}
+.WB_handle {
+    float:right;
+}
+.WB_from {
+    float:left;
+    margin-right:170px;
+}
+.repeat {
+    padding:10px 20px 10px;
+}
