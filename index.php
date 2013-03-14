@@ -11,12 +11,12 @@
 	<link rel="stylesheet" type="text/css" href="css/menu.css" />
 	<script type="text/javascript" src="js/normal.js"></script>
 </head>
-<body style="">
+<body>
 	<div>
 		<?php include_once 'menu.php';?>
 	</div>
 	<div id="stomach" >
-		
+			
 	</div>
 </body>
 </html>

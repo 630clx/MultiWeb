@@ -4,7 +4,7 @@
 html, body {
 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
  	line-height:1.6em;
-	margin:0;
+	margin:auto;
 }
  
 html {
@@ -13,7 +13,10 @@ html {
 
 body {
 	/*background-image:url('../image/6629840829_61ac911854_b1.jpeg-bodybg.jpg');*/
-	background-color:rgb(24, 224, 40);
+	width:1000px;
+	background-color:rgb(24, 224, 128);
+	border-left:solid black 1px;
+	border-right:solid black 1px;
 }
 
 div {
