@@ -4,7 +4,7 @@
 	<nav>
 		<ul>
 			<li></li>
-			<li class="nav-index"><a href="">首页</a></li>
+			<li class="nav-index"><a href="index.php">首页</a></li>
 			<li class="nav-atme"><a href="atme.php">@提到我的</a></li>
 			<li class="nav-comment"><a href="">评论</a></li>
 			<li class="nav-collect"><a href="">收藏</a></li>
