@@ -28,6 +28,16 @@ body {
     border-left-style:solid;
 
 }
+.WB_feed .title {
+    height:24px;
+    line-height:28px;
+    padding:0 0 8px;
+    font-size:14px;
+    font-weight:700;
+    border-bottom-width:2px;
+    border-bottom-color:red;
+    border-bottom-style:solid;
+}
 .WB_feed_type{
     border-bottom-width:1px;
     border-bottom-style:solid;

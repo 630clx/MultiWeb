@@ -18,6 +18,7 @@
 	</div>
 	<div id="stomach" >
             <div class="WB_feed">
+                <div class="title">@ÎÒµÄÎ¢²©</div>
                 <div class="WB_feed_type">
                     <div class="WB_feed_detail">    
                         <div class="WB_face">
