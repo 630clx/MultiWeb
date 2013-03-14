@@ -16,7 +16,6 @@
 		<?php include_once 'menu.php';?>
 	</div>
 	<div id="stomach" >
-			
 	</div>
 </body>
 </html>
